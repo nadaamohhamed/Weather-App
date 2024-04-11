@@ -8,10 +8,10 @@
 - **Search Location**
   - Search for any city to get the current weather data.
   
-## State Management used
+## State Management Used
 - [BloC](https://pub.dev/packages/flutter_bloc): A state management library that leverages the BLoC (Business Logic Component) pattern to manage the states in Flutter applications. 
 
-## APIs used
+## APIs Used
  -  [weatherapi](https://www.weatherapi.com/): provides access to free weather and geo data via a JSON/XML restful API.
  - Access to real-time global weather stations and millions of high-resolution (1 to 11 km) weather points for Hourly, Daily weather data and much more.
 
