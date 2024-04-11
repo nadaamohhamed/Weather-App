@@ -9,7 +9,7 @@ class WeatherService {
 
   final String baseUrl = 'http://api.weatherapi.com/v1';
   // set your API key that is associated with your registered account here
-  final String apiKey = 'f77fee940fdc4e5286642132241104';
+  final String apiKey = '';
 
   WeatherService(this.dio);
 
