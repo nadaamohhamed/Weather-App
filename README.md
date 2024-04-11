@@ -17,7 +17,7 @@
 
 ## Screenshots
 - <img src="https://github.com/nadaamohhamed/Weather-App/assets/96924895/f8864d47-e834-452a-963a-18bd60b4bb26" alt="Home" width="300"/> <img src="https://github.com/nadaamohhamed/Weather-App/assets/96924895/a378945c-6815-4c2e-bd85-5ec80260a47b" alt="WebView" width="300"/>
-- <img src="https://github.com/nadaamohhamed/Weather-App/assets/96924895/01556271-5f13-4567-957e-1ba9421491f4" alt="Category" width="300"/> <img src="https://github.com/nadaamohhamed/Weather-App/assets/96924895/19f088eb-20dd-4815-9223-8d41b87075ca" alt="Category" width="300"/> 
+- <img src="https://github.com/nadaamohhamed/Weather-App/assets/96924895/3f3604c1-cda7-443c-820a-528fc6cdb573" alt="Category" width="300"/> <img src="https://github.com/nadaamohhamed/Weather-App/assets/96924895/a5bc9960-42b1-42bb-9eb7-1fccef2f62bb" alt="Category" width="300"/> 
 
 
 

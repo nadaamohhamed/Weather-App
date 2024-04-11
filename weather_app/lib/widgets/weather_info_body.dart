@@ -70,7 +70,7 @@ class WeatherInfoBody extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      'L: ${weatherModel.maxTemp.round()}°',
+                      'L: ${weatherModel.minTemp.round()}°',
                       style: const TextStyle(
                         fontSize: 16,
                       ),
