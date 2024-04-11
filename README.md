@@ -1,5 +1,5 @@
 # Weather-App
- A Flutter app to stay informed and plan ahead by simply entering any city's name to instantly access accurate, up-to-date weather data wherever you are.
+ A Flutter app to stay informed with weather info by simply entering any city's name to instantly access accurate, up-to-date weather data wherever you are.
 
 ## Features
 - **Current Weather Data**
